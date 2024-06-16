@@ -1,7 +1,8 @@
-# Programación 3 - React
+# React + Vite
 
-Este repositorio implementa mediante cada una de sus ramas un nuevo tema o característica del framework web React. Su finalidad es la de enseñar los conceptos fundamentales el mismo.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Su uso e implementación son de uso exclusivo para la materia de **Programación 3** de la **Tecnicatura Universitaria en Desarrollo de Software**, promovida por [UPATecO](https://campus.upateco.edu.ar/).
+Currently, two official plugins are available:
 
-- [Documentación de la materia](https://programacion3.academiacimneiber.com/)
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
